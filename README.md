@@ -1,6 +1,6 @@
 # Fingerprint Analysis Toolkit
 
-Welcome to the Fingerprint Analysis Toolkit! This Python script is your all-in-one solution for analyzing fingerprints with a touch of humor and scientific rigor. Whether you're trying to crack a secret agent's identity or just exploring the fascinating world of biometrics, this toolkit has got your back.
+Welcome to the Fingerprint Analysis Toolkit! This Python script is your all-in-one solution for analyzing fingerprints with a touch of scientific rigor.
 
 ## Features
 
