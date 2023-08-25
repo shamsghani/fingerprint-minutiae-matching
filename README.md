@@ -1,36 +1,22 @@
 # Fingerprint Analysis Toolkit
 
-Welcome to the Fingerprint Analysis Toolkit! This Python script is your all-in-one solution for analyzing fingerprints with a touch of scientific rigor.
+This is a fingerprint analysis toolkit that you can step through. It's fairly comprehensive and uses things like local structures and something about cylinders that I don't remember. my success with this has been limited for fingerprints with natural variation, though in some experiments it has worked well on SOCOFING.
 
 ## Features
 
 ### Fingerprint Segmentation (Step 1)
 
-First things first, let's segment that fingerprint! We apply a touch of magic (well, mathematics and image processing) to extract the intricate details from your image.
-
 ### Estimation of Local Ridge Orientation (Step 2)
-
-Every ridge has its orientation, just like you prefer holding your coffee mug a certain way. We estimate these orientations using some mathematical wizardry.
 
 ### Estimation of Local Frequency
 
-Just as music has its frequencies, fingerprints have their own rhythm too! We'll figure out the local frequency of those ridges.
-
 ### Fingerprint Enhancement
-
-Ever thought about giving your fingerprint a makeover? We'll enhance those ridges and valleys, making your fingerprint look like a superstar!
 
 ### Minutiae Detection
 
-Let's play "Spot the Minutiae!" We'll find those key points where ridges end or bifurcate. It's like finding little fingerprint road signs.
-
 ### Local Structure Analysis
 
-Did you know that fingerprints have their own local structures? We'll dive into the fingerprint matrix and reveal some hidden patterns using mind-bending calculations.
-
 ### Fingerprint Comparison
-
-"Separated at Ridge?" We'll compare two fingerprints and give you a score that tells you how similar they are. It's like a DNA test for fingerprints!
 
 ## How to Use
 
@@ -40,10 +26,8 @@ Did you know that fingerprints have their own local structures? We'll dive into 
 
 ## Disclaimer
 
-This toolkit is all about fingerprints, but don't try using it to analyze your love life – that's a bit too complex even for us! Remember, this is meant for educational and fun purposes only.
+Like I said at the start, my success has been limited, but play around with some of the variables, and if you get good performance out of it, why not open a pull request? Remember, this is meant for educational and fun purposes only.
 
 ## Authors
 
-This reimagined script is based on the brilliant work of Raffaele Cappelli. We've sprinkled some digital fairy dust to organize and enhance the code while keeping the scientific essence intact.
-
-So, what are you waiting for? Dive into the world of fingerprint analysis and unveil the secrets hidden in those unique patterns! 🕵️‍♂️🔍
+This reimagined script is based on the brilliant work of Raffaele Cappelli. I have only organized it to make it more universally usable. 
